@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>DroneGuard Command Console</title>
+    <link rel="stylesheet" href="https://unpkg.com/maplibre-gl@5.8.0/dist/maplibre-gl.css" />
+    <link rel="stylesheet" href="/static/css/dashboard.css" />
+</head>
+<body>
+    <main class="command-console">
+        <header class="hero glass">
+            <div class="brand-block">
+                <p class="eyebrow"><span class="status-orb"></span>Local Command Network</p>
+                <h1>DRONE<span>GUARD</span></h1>
+                <p class="subtitle">Field intelligence, incident evidence, and geospatial awareness.</p>
+            </div>
+            <div class="hero-status">
+                <div class="status-card"><span>Command node</span><strong id="command-status">ONLINE</strong></div>
+                <div class="status-card"><span>Threat matrix</span><strong id="top-threat">GREEN</strong></div>
+                <div class="status-card"><span>Night mode</span><strong id="night-mode">STANDBY</strong></div>
+            </div>
+        </header>
+
+        <nav class="command-tabs glass" aria-label="Command console sections">
+            <button class="command-tab active" data-tab="operations"><span>01</span> Operations</button>
+            <button class="command-tab" data-tab="map"><span>02</span> Tactical Map <i id="map-dot-count">0</i></button>
+            <button class="command-tab" data-tab="incidents"><span>03</span> Incidents</button>
+            <button class="command-tab" data-tab="evidence"><span>04</span> Evidence</button>
+            <button class="command-tab" data-tab="system"><span>05</span> System Info</button>
+        </nav>
+
+        <section class="command-view active" data-view="operations">
+            <div class="operations-grid">
+                <section class="panel glass live-feed">
+                    <div class="panel-title-row"><div><p class="section-kicker">Live visual feed</p><h2>Operations Monitor</h2></div><span id="feed-sector" class="chip neutral">Awaiting field activity</span></div>
+                    <div class="feed-frame"><img id="live-feed-image" alt="Latest field evidence" /><div class="scanlines"></div><div class="feed-overlay"><div><span class="label">Latest tactical status</span><strong id="live-feed-title">No active incidents</strong></div><div id="live-feed-threat" class="chip green">GREEN</div></div></div>
+                </section>
+                <section class="panel glass summary"><div class="panel-title-row"><div><p class="section-kicker">Event telemetry</p><h2>Threat Classification</h2></div></div><div class="summary-grid"><article><span>Active alerts</span><strong id="metric-alerts">0</strong></article><article><span>Field terminals</span><strong id="metric-devices">0</strong></article><article><span>Today</span><strong id="metric-incidents">0</strong></article><article><span>Authorized</span><strong id="metric-authorized">0</strong></article></div><div class="mini-radar"><span></span><span></span><span></span><b>LIVE SCAN</b></div></section>
+                <section class="panel glass alerts"><div class="panel-title-row"><div><p class="section-kicker">Priority queue</p><h2>Active Alerts</h2></div><span class="chip red">Live</span></div><div id="alerts-list" class="stack-list"></div></section>
+                <section class="panel glass devices"><div class="panel-title-row"><div><p class="section-kicker">Local Wi-Fi</p><h2>Connected Devices</h2></div><span class="chip neutral">Field</span></div><div id="devices-list" class="stack-list compact"></div></section>
+            </div>
+        </section>
+
+        <section class="command-view" data-view="map">
+            <section class="panel glass map-panel"><div class="panel-title-row"><div><p class="section-kicker">GPS incident positions</p><h2>Geospatial Incident Map</h2><p class="map-subtitle">Pins show the field terminal location attached to an event—not independently calculated target coordinates.</p></div><span id="map-status" class="chip neutral">Map standby</span></div><div id="incident-map" aria-label="Interactive incident map"></div><p id="map-message" class="map-message"></p></section>
+        </section>
+
+        <section class="command-view" data-view="incidents"><section class="panel glass"><div class="panel-title-row"><div><p class="section-kicker">Search-ready record</p><h2>Incident Archive</h2></div><span class="chip amber">Recorded events</span></div><div id="incidents-table" class="incident-table"></div></section></section>
+        <section class="command-view" data-view="evidence"><section class="panel glass"><div class="panel-title-row"><div><p class="section-kicker">Captured media</p><h2>Evidence Viewer</h2></div><span class="chip neutral">Recent captures</span></div><div id="evidence-viewer" class="evidence-viewer"></div></section></section>
+        <section class="command-view" data-view="system"><div class="system-grid"><section class="panel glass"><p class="section-kicker">Deployment profile</p><h2>System Information</h2><dl class="system-list"><div><dt>Mode</dt><dd>LOCAL WIFI / DEMO</dd></div><div><dt>Map source</dt><dd>MAPTILER TONER</dd></div><div><dt>Inference</dt><dd>ON-DEVICE YOLO26S</dd></div><div><dt>Evidence</dt><dd>LOCAL COMMAND ARCHIVE</dd></div></dl></section><section class="panel glass"><p class="section-kicker">Operator note</p><h2>Location Integrity</h2><p class="system-copy">The map preserves the phone GPS coordinate received at event creation. Treat all target position projections as estimates unless an external positioning sensor verifies them.</p></section></div></section>
+    </main>
+    <script>window.DRONEGUARD_MAPTILER_KEY = {{ maptiler_key | tojson }};</script>
+    <script src="https://unpkg.com/maplibre-gl@5.8.0/dist/maplibre-gl.js"></script>
+    <script src="/static/js/dashboard.js"></script>
+</body>
+</html>

@@ -1,0 +1,14 @@
+[2026-04-25T15:59:07.946209+00:00] INC-20260425-155907-F570 | YELLOW | Unknown person detected in South West Sector
+[2026-04-25T15:59:10.398327+00:00] INC-20260425-155910-D386 | YELLOW | Unknown person detected in Central East Sector
+[2026-04-25T15:59:12.897404+00:00] INC-20260425-155912-6C10 | YELLOW | Unknown person detected in South Center Sector
+[2026-04-25T15:59:15.507095+00:00] INC-20260425-155915-8E98 | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-25T16:00:30.785431+00:00] INC-20260425-160030-C04B | YELLOW | Unknown person detected in Central East Sector
+[2026-04-25T16:00:33.267648+00:00] INC-20260425-160033-6856 | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-25T16:00:35.865564+00:00] INC-20260425-160035-CF28 | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-25T16:00:38.447150+00:00] INC-20260425-160038-B08A | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-25T16:00:42.028622+00:00] INC-20260425-160042-4BBD | YELLOW | Unknown person detected in South West Sector
+[2026-04-25T16:01:01.997377+00:00] INC-20260425-160101-A02F | YELLOW | Vehicle requires verification in North West Sector
+[2026-04-25T16:54:30.869417+00:00] INC-20260425-165430-BA59 | YELLOW | Vehicle requires verification in North Center Sector
+[2026-04-25T16:54:33.047855+00:00] INC-20260425-165433-A513 | RED | Blacklisted vehicle detected in Central Center Sector
+[2026-04-25T16:54:35.892834+00:00] INC-20260425-165435-3826 | RED | Blacklisted vehicle detected in Central Center Sector
+[2026-04-25T16:54:41.281515+00:00] INC-20260425-165441-613A | YELLOW | Vehicle requires verification in Central Center Sector

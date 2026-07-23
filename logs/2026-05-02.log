@@ -1,0 +1,20 @@
+[2026-05-02T18:34:34.866920+00:00] INC-20260502-183434-0B88 | YELLOW | Unknown person detected in South West Sector
+[2026-05-02T18:34:37.280466+00:00] INC-20260502-183437-E17F | YELLOW | Unknown person detected in Central West Sector
+[2026-05-02T18:34:37.948615+00:00] INC-20260502-183437-0D02 | CRITICAL | Restricted zone breach in Command Apron
+[2026-05-02T18:34:55.032123+00:00] INC-20260502-183455-2960 | YELLOW | Unknown person detected in Central Center Sector
+[2026-05-02T18:34:55.943329+00:00] INC-20260502-183455-AFB1 | YELLOW | Unknown person detected in Central West Sector
+[2026-05-02T18:34:56.336418+00:00] INC-20260502-183456-653D | YELLOW | Unknown person detected in Central Center Sector
+[2026-05-02T18:34:56.795521+00:00] INC-20260502-183456-E5A0 | YELLOW | Unknown person detected in Central Center Sector
+[2026-05-02T18:34:58.105818+00:00] INC-20260502-183458-121F | YELLOW | Unknown person detected in Unspecified Sector
+[2026-05-02T18:34:58.106818+00:00] INC-20260502-183458-49D9 | GREEN | Suspicious bed activity in Unspecified Sector
+[2026-05-02T18:34:58.582924+00:00] INC-20260502-183458-0D90 | YELLOW | Unknown person detected in South Center Sector
+[2026-05-02T18:34:59.982239+00:00] INC-20260502-183459-1EA6 | YELLOW | Unknown person detected in Unspecified Sector
+[2026-05-02T18:35:00.503358+00:00] INC-20260502-183500-B1B3 | YELLOW | Unknown person detected in South East Sector
+[2026-05-02T18:35:21.262696+00:00] INC-20260502-183521-01E0 | RED | Restricted zone breach in West Gate
+[2026-05-02T18:35:21.604876+00:00] INC-20260502-183521-4D33 | YELLOW | Unknown person detected in South Center Sector
+[2026-05-02T18:36:07.780422+00:00] INC-20260502-183607-1A6A | GREEN | Suspicious toilet activity in Unspecified Sector
+[2026-05-02T18:36:09.017199+00:00] INC-20260502-183609-110D | YELLOW | Unknown person detected in South Center Sector
+[2026-05-02T18:36:50.652507+00:00] INC-20260502-183650-8E24 | RED | Restricted zone breach in West Gate
+[2026-05-02T18:36:50.943148+00:00] INC-20260502-183650-0D05 | YELLOW | Unknown person detected in South Center Sector
+[2026-05-02T18:44:59.983543+00:00] INC-20260502-184459-99F7 | GREEN | Suspicious knife activity in Unspecified Sector
+[2026-05-02T18:45:00.232600+00:00] INC-20260502-184500-8D07 | YELLOW | Unknown person detected in South West Sector

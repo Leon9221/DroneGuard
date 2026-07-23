@@ -1,0 +1,719 @@
+[2026-04-26T12:07:42.597077+00:00] INC-20260426-120742-EFB0 | YELLOW | Unknown person detected in Central West Sector
+[2026-04-26T12:07:47.062500+00:00] INC-20260426-120747-D4DC | YELLOW | Vehicle requires verification in North Center Sector
+[2026-04-26T12:09:16.229154+00:00] INC-20260426-120916-9E74 | YELLOW | Unknown person detected in Central West Sector
+[2026-04-26T12:09:18.789554+00:00] INC-20260426-120918-5929 | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T12:09:21.311970+00:00] INC-20260426-120921-159B | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T12:09:23.848902+00:00] INC-20260426-120923-D913 | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T12:09:26.436781+00:00] INC-20260426-120926-C69A | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T12:09:28.964855+00:00] INC-20260426-120928-277A | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T12:09:28.975214+00:00] INC-20260426-120928-1D18 | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T12:09:31.475127+00:00] INC-20260426-120931-5366 | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T12:09:33.997240+00:00] INC-20260426-120933-751E | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T15:52:18.967217+00:00] INC-20260426-155218-B432 | GREEN | Suspicious cat activity in Unspecified Sector
+[2026-04-26T15:52:19.020227+00:00] INC-20260426-155219-2199 | YELLOW | Vehicle requires verification in North Center Sector
+[2026-04-26T15:52:23.965853+00:00] INC-20260426-155223-66EB | GREEN | Suspicious bottle activity in Unspecified Sector
+[2026-04-26T15:52:24.322933+00:00] INC-20260426-155224-8222 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:52:24.630004+00:00] INC-20260426-155224-A934 | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T15:52:24.790038+00:00] INC-20260426-155224-0D49 | GREEN | Suspicious suitcase activity in Unspecified Sector
+[2026-04-26T15:52:24.993083+00:00] INC-20260426-155224-F555 | YELLOW | Unknown person detected in Central West Sector
+[2026-04-26T15:52:25.257143+00:00] INC-20260426-155225-55B1 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:52:25.418179+00:00] INC-20260426-155225-9E31 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:52:25.621226+00:00] INC-20260426-155225-C607 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:52:25.906291+00:00] INC-20260426-155225-F384 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:52:26.135341+00:00] INC-20260426-155226-95A6 | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T15:52:26.477418+00:00] INC-20260426-155226-6077 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:52:27.135568+00:00] INC-20260426-155227-F912 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:52:27.958752+00:00] INC-20260426-155227-79DB | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:52:27.959753+00:00] INC-20260426-155227-8D21 | GREEN | Suspicious microwave activity in Unspecified Sector
+[2026-04-26T15:52:28.156797+00:00] INC-20260426-155228-1C7C | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:52:28.764777+00:00] INC-20260426-155228-E035 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:52:28.765778+00:00] INC-20260426-155228-7FAF | GREEN | Suspicious microwave activity in Unspecified Sector
+[2026-04-26T15:52:28.821791+00:00] INC-20260426-155228-6EF1 | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T15:52:29.332760+00:00] INC-20260426-155229-5CD7 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:52:29.332760+00:00] INC-20260426-155229-1E0D | GREEN | Suspicious microwave activity in Unspecified Sector
+[2026-04-26T15:52:29.825381+00:00] INC-20260426-155229-313D | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:52:29.826382+00:00] INC-20260426-155229-2E4D | GREEN | Suspicious suitcase activity in Unspecified Sector
+[2026-04-26T15:52:30.382505+00:00] INC-20260426-155230-324A | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:52:30.983640+00:00] INC-20260426-155230-9B37 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:52:31.287711+00:00] INC-20260426-155231-D5D5 | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T15:52:31.518762+00:00] INC-20260426-155231-D317 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:52:32.005871+00:00] INC-20260426-155232-FD2F | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:52:32.593004+00:00] INC-20260426-155232-3993 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:52:34.045334+00:00] INC-20260426-155234-16EF | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:52:34.045334+00:00] INC-20260426-155234-8389 | GREEN | Suspicious microwave activity in Unspecified Sector
+[2026-04-26T15:52:34.126351+00:00] INC-20260426-155234-D923 | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T15:52:34.407414+00:00] INC-20260426-155234-F3DA | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:52:34.682475+00:00] INC-20260426-155234-9390 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:52:34.898526+00:00] INC-20260426-155234-906A | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:52:34.899526+00:00] INC-20260426-155234-E15E | GREEN | Suspicious microwave activity in Unspecified Sector
+[2026-04-26T15:52:35.310617+00:00] INC-20260426-155235-E68E | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:52:35.310617+00:00] INC-20260426-155235-D95B | GREEN | Suspicious microwave activity in Unspecified Sector
+[2026-04-26T15:52:35.929756+00:00] INC-20260426-155235-D056 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:52:35.930757+00:00] INC-20260426-155235-427A | GREEN | Suspicious microwave activity in Unspecified Sector
+[2026-04-26T15:52:37.600135+00:00] INC-20260426-155237-A946 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:52:37.602135+00:00] INC-20260426-155237-7328 | GREEN | Suspicious cell phone activity in Unspecified Sector
+[2026-04-26T15:52:37.693156+00:00] INC-20260426-155237-52CF | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T15:52:39.192495+00:00] INC-20260426-155239-8BC3 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:52:39.194494+00:00] INC-20260426-155239-8344 | GREEN | Suspicious microwave activity in Unspecified Sector
+[2026-04-26T15:52:39.630593+00:00] INC-20260426-155239-C5EA | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:52:39.983673+00:00] INC-20260426-155239-E6B8 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:52:40.312747+00:00] INC-20260426-155240-5A98 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:52:40.313747+00:00] INC-20260426-155240-C4E3 | GREEN | Suspicious microwave activity in Unspecified Sector
+[2026-04-26T15:52:40.564803+00:00] INC-20260426-155240-1856 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:52:40.651822+00:00] INC-20260426-155240-C390 | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T15:52:40.946890+00:00] INC-20260426-155240-C6EE | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:52:41.178941+00:00] INC-20260426-155241-8147 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:52:41.423996+00:00] INC-20260426-155241-3C95 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:52:41.710061+00:00] INC-20260426-155241-2F9D | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:52:41.818086+00:00] INC-20260426-155241-6F13 | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T15:52:42.138158+00:00] INC-20260426-155242-C9B0 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:52:42.138158+00:00] INC-20260426-155242-9289 | GREEN | Suspicious microwave activity in Unspecified Sector
+[2026-04-26T15:52:42.504240+00:00] INC-20260426-155242-50C6 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:52:42.505240+00:00] INC-20260426-155242-54F3 | GREEN | Suspicious microwave activity in Unspecified Sector
+[2026-04-26T15:52:43.043361+00:00] INC-20260426-155243-8E47 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:52:43.044362+00:00] INC-20260426-155243-18D1 | GREEN | Suspicious microwave activity in Unspecified Sector
+[2026-04-26T15:52:43.044362+00:00] INC-20260426-155243-5BA1 | GREEN | Suspicious suitcase activity in Unspecified Sector
+[2026-04-26T15:52:43.535473+00:00] INC-20260426-155243-16FF | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:52:44.092687+00:00] INC-20260426-155244-9B08 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:52:44.188709+00:00] INC-20260426-155244-233E | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T15:52:44.584798+00:00] INC-20260426-155244-4A08 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:52:44.585799+00:00] INC-20260426-155244-61DC | GREEN | Suspicious suitcase activity in Unspecified Sector
+[2026-04-26T15:52:45.145318+00:00] INC-20260426-155245-1E02 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:52:45.146318+00:00] INC-20260426-155245-276C | GREEN | Suspicious cell phone activity in Unspecified Sector
+[2026-04-26T15:52:45.696442+00:00] INC-20260426-155245-AC2C | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:52:45.697442+00:00] INC-20260426-155245-1D63 | GREEN | Suspicious microwave activity in Unspecified Sector
+[2026-04-26T15:52:46.154546+00:00] INC-20260426-155246-AD46 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:52:46.155545+00:00] INC-20260426-155246-777D | GREEN | Suspicious cell phone activity in Unspecified Sector
+[2026-04-26T15:52:46.493622+00:00] INC-20260426-155246-BF06 | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T15:52:46.720673+00:00] INC-20260426-155246-D45E | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:52:46.721673+00:00] INC-20260426-155246-6532 | GREEN | Suspicious microwave activity in Unspecified Sector
+[2026-04-26T15:52:47.247792+00:00] INC-20260426-155247-7AD6 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:52:47.746905+00:00] INC-20260426-155247-3FAB | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:52:47.746905+00:00] INC-20260426-155247-A288 | GREEN | Suspicious suitcase activity in Unspecified Sector
+[2026-04-26T15:52:48.898165+00:00] INC-20260426-155248-1047 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:52:48.898165+00:00] INC-20260426-155248-8753 | GREEN | Suspicious suitcase activity in Unspecified Sector
+[2026-04-26T15:52:49.172226+00:00] INC-20260426-155249-4EB2 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:52:49.279250+00:00] INC-20260426-155249-9833 | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T15:52:49.632330+00:00] INC-20260426-155249-2529 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:52:50.163451+00:00] INC-20260426-155250-02C6 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:52:52.879064+00:00] INC-20260426-155252-87D6 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:52:52.880063+00:00] INC-20260426-155252-836B | GREEN | Suspicious suitcase activity in Unspecified Sector
+[2026-04-26T15:52:53.057104+00:00] INC-20260426-155253-17A5 | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T15:52:53.533210+00:00] INC-20260426-155253-7A63 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:52:53.896293+00:00] INC-20260426-155253-EE89 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:52:53.898293+00:00] INC-20260426-155253-5FF4 | GREEN | Suspicious suitcase activity in Unspecified Sector
+[2026-04-26T15:52:53.899294+00:00] INC-20260426-155253-4815 | GREEN | Suspicious cell phone activity in Unspecified Sector
+[2026-04-26T15:52:54.249372+00:00] INC-20260426-155254-5C35 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:52:54.250374+00:00] INC-20260426-155254-F3D1 | GREEN | Suspicious suitcase activity in Unspecified Sector
+[2026-04-26T15:52:54.556440+00:00] INC-20260426-155254-90C9 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:52:54.557440+00:00] INC-20260426-155254-B7D9 | GREEN | Suspicious skateboard activity in Unspecified Sector
+[2026-04-26T15:52:54.873512+00:00] INC-20260426-155254-5F46 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:52:54.874513+00:00] INC-20260426-155254-177A | GREEN | Suspicious suitcase activity in Unspecified Sector
+[2026-04-26T15:52:55.017548+00:00] INC-20260426-155255-4730 | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T15:52:55.342618+00:00] INC-20260426-155255-3AC2 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:52:55.787718+00:00] INC-20260426-155255-B292 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:52:55.788718+00:00] INC-20260426-155255-3DB6 | GREEN | Suspicious tie activity in Unspecified Sector
+[2026-04-26T15:52:56.062780+00:00] INC-20260426-155256-8B4D | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:52:56.656915+00:00] INC-20260426-155256-0E56 | GREEN | Suspicious bed activity in Unspecified Sector
+[2026-04-26T15:52:56.964984+00:00] INC-20260426-155256-059E | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T15:53:15.755875+00:00] INC-20260426-155315-84AC | GREEN | Suspicious clock activity in Unspecified Sector
+[2026-04-26T15:53:16.355009+00:00] INC-20260426-155316-EAFA | GREEN | Suspicious book activity in Unspecified Sector
+[2026-04-26T15:53:16.916135+00:00] INC-20260426-155316-4397 | GREEN | Suspicious book activity in Unspecified Sector
+[2026-04-26T15:53:18.320452+00:00] INC-20260426-155318-1487 | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T15:53:18.707541+00:00] INC-20260426-155318-35A8 | GREEN | Suspicious laptop activity in Unspecified Sector
+[2026-04-26T15:53:19.146639+00:00] INC-20260426-155319-851F | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T15:53:19.147639+00:00] INC-20260426-155319-5FB9 | GREEN | Suspicious laptop activity in Unspecified Sector
+[2026-04-26T15:53:20.244512+00:00] INC-20260426-155320-1927 | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T15:53:21.330999+00:00] INC-20260426-155321-F2C2 | GREEN | Suspicious laptop activity in Unspecified Sector
+[2026-04-26T15:53:21.949819+00:00] INC-20260426-155321-AC88 | GREEN | Suspicious laptop activity in Unspecified Sector
+[2026-04-26T15:53:22.506175+00:00] INC-20260426-155322-2D2C | GREEN | Suspicious laptop activity in Unspecified Sector
+[2026-04-26T15:53:23.058665+00:00] INC-20260426-155323-E7E8 | GREEN | Suspicious laptop activity in Unspecified Sector
+[2026-04-26T15:53:23.666799+00:00] INC-20260426-155323-ED65 | GREEN | Suspicious book activity in Unspecified Sector
+[2026-04-26T15:53:27.859061+00:00] INC-20260426-155327-9C51 | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T15:53:28.458941+00:00] INC-20260426-155328-E88D | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T15:53:28.458941+00:00] INC-20260426-155328-C6B5 | GREEN | Suspicious laptop activity in Unspecified Sector
+[2026-04-26T15:53:28.459941+00:00] INC-20260426-155328-D6BA | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T15:53:29.005204+00:00] INC-20260426-155329-F7D4 | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T15:53:29.005204+00:00] INC-20260426-155329-B3AE | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T15:53:29.559330+00:00] INC-20260426-155329-7839 | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T15:53:29.560329+00:00] INC-20260426-155329-6826 | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T15:53:29.561329+00:00] INC-20260426-155329-D279 | GREEN | Suspicious microwave activity in Unspecified Sector
+[2026-04-26T15:53:30.293581+00:00] INC-20260426-155330-F0A0 | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T15:53:30.294582+00:00] INC-20260426-155330-4DEE | GREEN | Suspicious laptop activity in Unspecified Sector
+[2026-04-26T15:53:30.295582+00:00] INC-20260426-155330-72CB | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T15:53:30.721677+00:00] INC-20260426-155330-C40B | GREEN | Suspicious laptop activity in Unspecified Sector
+[2026-04-26T15:53:30.722677+00:00] INC-20260426-155330-A5AA | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T15:53:31.213788+00:00] INC-20260426-155331-4EC2 | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T15:53:31.727904+00:00] INC-20260426-155331-2AA7 | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T15:53:32.270027+00:00] INC-20260426-155332-1C0B | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T15:53:32.808148+00:00] INC-20260426-155332-373E | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T15:53:32.809149+00:00] INC-20260426-155332-F3AA | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T15:53:34.293485+00:00] INC-20260426-155334-1851 | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T15:53:34.294486+00:00] INC-20260426-155334-2071 | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T15:53:34.648563+00:00] INC-20260426-155334-E366 | GREEN | Suspicious laptop activity in Unspecified Sector
+[2026-04-26T15:53:34.648563+00:00] INC-20260426-155334-E171 | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T15:53:34.969636+00:00] INC-20260426-155334-683D | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T15:53:34.970636+00:00] INC-20260426-155334-C925 | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T15:53:34.970636+00:00] INC-20260426-155334-4034 | GREEN | Suspicious laptop activity in Unspecified Sector
+[2026-04-26T15:53:35.472750+00:00] INC-20260426-155335-B348 | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T15:53:35.473750+00:00] INC-20260426-155335-384D | GREEN | Suspicious laptop activity in Unspecified Sector
+[2026-04-26T15:53:35.475752+00:00] INC-20260426-155335-27FE | GREEN | Suspicious laptop activity in Unspecified Sector
+[2026-04-26T15:53:38.728484+00:00] INC-20260426-155338-505E | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T15:53:38.729484+00:00] INC-20260426-155338-8728 | GREEN | Suspicious laptop activity in Unspecified Sector
+[2026-04-26T15:53:38.730484+00:00] INC-20260426-155338-9B19 | GREEN | Suspicious laptop activity in Unspecified Sector
+[2026-04-26T15:53:39.196592+00:00] INC-20260426-155339-2555 | GREEN | Suspicious laptop activity in Unspecified Sector
+[2026-04-26T15:53:39.197592+00:00] INC-20260426-155339-2E79 | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T15:53:39.791724+00:00] INC-20260426-155339-799A | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T15:53:39.792725+00:00] INC-20260426-155339-9A68 | GREEN | Suspicious laptop activity in Unspecified Sector
+[2026-04-26T15:53:40.198817+00:00] INC-20260426-155340-F96C | GREEN | Suspicious laptop activity in Unspecified Sector
+[2026-04-26T15:53:40.199817+00:00] INC-20260426-155340-90F3 | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T15:53:40.585904+00:00] INC-20260426-155340-8696 | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T15:53:40.586906+00:00] INC-20260426-155340-7B77 | GREEN | Suspicious laptop activity in Unspecified Sector
+[2026-04-26T15:53:40.954987+00:00] INC-20260426-155340-5649 | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T15:53:41.298063+00:00] INC-20260426-155341-667D | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T15:53:41.299063+00:00] INC-20260426-155341-28C6 | GREEN | Suspicious laptop activity in Unspecified Sector
+[2026-04-26T15:53:41.654145+00:00] INC-20260426-155341-17F0 | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T15:53:41.655144+00:00] INC-20260426-155341-E877 | GREEN | Suspicious laptop activity in Unspecified Sector
+[2026-04-26T15:53:41.656144+00:00] INC-20260426-155341-C5D7 | GREEN | Suspicious laptop activity in Unspecified Sector
+[2026-04-26T15:53:42.057234+00:00] INC-20260426-155342-8510 | GREEN | Suspicious laptop activity in Unspecified Sector
+[2026-04-26T15:53:42.058235+00:00] INC-20260426-155342-3B15 | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T15:53:42.058235+00:00] INC-20260426-155342-8753 | GREEN | Suspicious laptop activity in Unspecified Sector
+[2026-04-26T15:53:42.367304+00:00] INC-20260426-155342-8A96 | GREEN | Suspicious laptop activity in Unspecified Sector
+[2026-04-26T15:53:42.368304+00:00] INC-20260426-155342-78C2 | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T15:53:42.369305+00:00] INC-20260426-155342-CFC1 | GREEN | Suspicious laptop activity in Unspecified Sector
+[2026-04-26T15:53:42.681375+00:00] INC-20260426-155342-FF95 | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T15:53:42.682375+00:00] INC-20260426-155342-2797 | GREEN | Suspicious laptop activity in Unspecified Sector
+[2026-04-26T15:53:42.998446+00:00] INC-20260426-155342-8024 | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T15:53:42.999447+00:00] INC-20260426-155342-0847 | GREEN | Suspicious laptop activity in Unspecified Sector
+[2026-04-26T15:53:43.336524+00:00] INC-20260426-155343-A1CF | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T15:53:43.337524+00:00] INC-20260426-155343-3948 | GREEN | Suspicious laptop activity in Unspecified Sector
+[2026-04-26T15:53:44.049684+00:00] INC-20260426-155344-E12E | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T15:53:44.361754+00:00] INC-20260426-155344-00EB | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T15:53:44.362754+00:00] INC-20260426-155344-D501 | GREEN | Suspicious laptop activity in Unspecified Sector
+[2026-04-26T15:53:44.564800+00:00] INC-20260426-155344-DD5E | YELLOW | Unknown person detected in Central East Sector
+[2026-04-26T15:53:44.871869+00:00] INC-20260426-155344-3A55 | GREEN | Suspicious laptop activity in Unspecified Sector
+[2026-04-26T15:53:44.871869+00:00] INC-20260426-155344-52D0 | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T15:53:45.326973+00:00] INC-20260426-155345-4478 | GREEN | Suspicious laptop activity in Unspecified Sector
+[2026-04-26T15:53:45.327973+00:00] INC-20260426-155345-FB0A | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T15:53:45.796078+00:00] INC-20260426-155345-D331 | GREEN | Suspicious laptop activity in Unspecified Sector
+[2026-04-26T15:53:45.797078+00:00] INC-20260426-155345-82F1 | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T15:53:46.252181+00:00] INC-20260426-155346-E568 | GREEN | Suspicious laptop activity in Unspecified Sector
+[2026-04-26T15:53:46.253181+00:00] INC-20260426-155346-CFB8 | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T15:53:46.639268+00:00] INC-20260426-155346-F5C2 | GREEN | Suspicious laptop activity in Unspecified Sector
+[2026-04-26T15:53:46.639268+00:00] INC-20260426-155346-122C | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T15:53:47.139381+00:00] INC-20260426-155347-47F0 | GREEN | Suspicious laptop activity in Unspecified Sector
+[2026-04-26T15:53:47.140384+00:00] INC-20260426-155347-ED6B | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T15:53:47.903554+00:00] INC-20260426-155347-2A98 | YELLOW | Unknown person detected in Central East Sector
+[2026-04-26T15:53:48.232629+00:00] INC-20260426-155348-8C3E | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:53:49.214850+00:00] INC-20260426-155349-2335 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:53:49.614940+00:00] INC-20260426-155349-7799 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:53:50.213076+00:00] INC-20260426-155350-109D | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:53:53.547828+00:00] INC-20260426-155353-9ED3 | RED | Restricted zone breach in West Gate
+[2026-04-26T15:53:53.804886+00:00] INC-20260426-155353-CCBA | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T15:53:54.245986+00:00] INC-20260426-155354-064A | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:53:54.492040+00:00] INC-20260426-155354-E123 | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T15:53:54.840119+00:00] INC-20260426-155354-9456 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:53:55.225206+00:00] INC-20260426-155355-B739 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:53:55.608292+00:00] INC-20260426-155355-4C35 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:53:55.974374+00:00] INC-20260426-155355-9256 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:53:56.362462+00:00] INC-20260426-155356-F329 | RED | Restricted zone breach in West Gate
+[2026-04-26T15:53:56.725543+00:00] INC-20260426-155356-B088 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:53:57.078624+00:00] INC-20260426-155357-A783 | YELLOW | Unknown person detected in Unspecified Sector
+[2026-04-26T15:53:57.446707+00:00] INC-20260426-155357-FC31 | YELLOW | Unknown person detected in Central East Sector
+[2026-04-26T15:53:57.763778+00:00] INC-20260426-155357-1961 | YELLOW | Unknown person detected in Unspecified Sector
+[2026-04-26T15:53:58.104855+00:00] INC-20260426-155358-BDB1 | YELLOW | Unknown person detected in Unspecified Sector
+[2026-04-26T15:53:58.466937+00:00] INC-20260426-155358-1E30 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:53:59.176096+00:00] INC-20260426-155359-0734 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:53:59.671208+00:00] INC-20260426-155359-05DE | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:53:59.906262+00:00] INC-20260426-155359-C0CE | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T15:54:00.299350+00:00] INC-20260426-155400-1A3B | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:54:00.981024+00:00] INC-20260426-155400-4C90 | YELLOW | Unknown person detected in Unspecified Sector
+[2026-04-26T15:54:02.283317+00:00] INC-20260426-155402-6D48 | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T15:54:12.953663+00:00] INC-20260426-155412-A64A | YELLOW | Unknown person detected in Unspecified Sector
+[2026-04-26T15:54:13.328748+00:00] INC-20260426-155413-8E86 | YELLOW | Unknown person detected in Central East Sector
+[2026-04-26T15:54:13.643819+00:00] INC-20260426-155413-669F | YELLOW | Unknown person detected in Unspecified Sector
+[2026-04-26T15:54:18.097824+00:00] INC-20260426-155418-3389 | YELLOW | Unknown person detected in Unspecified Sector
+[2026-04-26T15:54:18.356884+00:00] INC-20260426-155418-6FAA | YELLOW | Unknown person detected in Central West Sector
+[2026-04-26T15:54:19.635171+00:00] INC-20260426-155419-91FD | RED | Restricted zone breach in West Gate
+[2026-04-26T15:54:21.870675+00:00] INC-20260426-155421-C5F6 | RED | Restricted zone breach in West Gate
+[2026-04-26T15:54:24.558283+00:00] INC-20260426-155424-A33F | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T15:54:25.851573+00:00] INC-20260426-155425-4928 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:54:26.221656+00:00] INC-20260426-155426-C6AC | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:54:26.602742+00:00] INC-20260426-155426-201A | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:54:26.981828+00:00] INC-20260426-155426-2995 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:54:27.367915+00:00] INC-20260426-155427-7C55 | GREEN | Suspicious bed activity in Unspecified Sector
+[2026-04-26T15:54:27.622974+00:00] INC-20260426-155427-39D6 | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T15:54:27.842022+00:00] INC-20260426-155427-13EE | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T15:54:28.164095+00:00] INC-20260426-155428-86D2 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:54:29.389371+00:00] INC-20260426-155429-BA51 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:54:29.902487+00:00] INC-20260426-155429-6092 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T15:54:29.903487+00:00] INC-20260426-155429-B90C | GREEN | Suspicious bed activity in Unspecified Sector
+[2026-04-26T15:54:30.275572+00:00] INC-20260426-155430-58BE | GREEN | Suspicious bed activity in Unspecified Sector
+[2026-04-26T15:54:31.093755+00:00] INC-20260426-155431-8113 | RED | Restricted zone breach in West Gate
+[2026-04-26T15:54:31.094756+00:00] INC-20260426-155431-6B50 | GREEN | Suspicious bed activity in Unspecified Sector
+[2026-04-26T15:54:31.355817+00:00] INC-20260426-155431-7904 | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T15:54:32.569088+00:00] INC-20260426-155432-8D8B | CRITICAL | Restricted zone breach in Command Apron
+                                                                                                                                                                                                                                              [2026-04-26T16:05:43.800459+00:00] INC-20260426-160543-4BB0 | RED | Restricted zone breach in West Gate
+[2026-04-26T16:05:44.833444+00:00] INC-20260426-160544-3A91 | GREEN | Suspicious bench activity in Unspecified Sector
+[2026-04-26T16:07:14.130049+00:00] INC-20260426-160714-0ADB | GREEN | Suspicious laptop activity in Unspecified Sector
+[2026-04-26T16:07:14.694290+00:00] INC-20260426-160714-8C22 | GREEN | Suspicious laptop activity in Unspecified Sector
+[2026-04-26T16:07:14.695290+00:00] INC-20260426-160714-56E7 | GREEN | Suspicious cell phone activity in Unspecified Sector
+[2026-04-26T16:07:24.256582+00:00] INC-20260426-160724-446A | YELLOW | Unknown person detected in South Center Sector
+[2026-04-26T16:07:26.631118+00:00] INC-20260426-160726-B0F5 | GREEN | Suspicious laptop activity in Unspecified Sector
+[2026-04-26T16:07:26.632118+00:00] INC-20260426-160726-8B85 | GREEN | Suspicious laptop activity in Unspecified Sector
+[2026-04-26T16:07:36.407323+00:00] INC-20260426-160736-5D1B | GREEN | Suspicious cup activity in Unspecified Sector
+[2026-04-26T16:09:11.384793+00:00] INC-20260426-160911-63CB | YELLOW | Unknown person detected in Central West Sector
+[2026-04-26T16:09:12.776311+00:00] INC-20260426-160912-49E4 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:09:13.321930+00:00] INC-20260426-160913-3A5A | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:09:13.671674+00:00] INC-20260426-160913-A450 | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:09:13.983862+00:00] INC-20260426-160913-AB09 | GREEN | Suspicious fork activity in Unspecified Sector
+[2026-04-26T16:09:13.983862+00:00] INC-20260426-160913-6ED4 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:09:14.457969+00:00] INC-20260426-160914-AE77 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:09:15.019094+00:00] INC-20260426-160915-139C | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:09:15.019094+00:00] INC-20260426-160915-1970 | GREEN | Suspicious banana activity in Unspecified Sector
+[2026-04-26T16:09:15.604984+00:00] INC-20260426-160915-56BB | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:09:15.604984+00:00] INC-20260426-160915-FF8E | GREEN | Suspicious banana activity in Unspecified Sector
+[2026-04-26T16:09:16.224678+00:00] INC-20260426-160916-7448 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:09:16.225678+00:00] INC-20260426-160916-FD6F | GREEN | Suspicious fork activity in Unspecified Sector
+[2026-04-26T16:09:16.499741+00:00] INC-20260426-160916-D8BE | YELLOW | Unknown person detected in South East Sector
+[2026-04-26T16:09:16.824814+00:00] INC-20260426-160916-C4B9 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:09:16.824814+00:00] INC-20260426-160916-F4C6 | RED | Restricted zone breach in West Gate
+[2026-04-26T16:09:17.304493+00:00] INC-20260426-160917-8662 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:09:18.821694+00:00] INC-20260426-160918-A274 | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:09:19.138765+00:00] INC-20260426-160919-2102 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:09:19.139765+00:00] INC-20260426-160919-4A7A | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:09:19.590867+00:00] INC-20260426-160919-404B | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:09:20.222581+00:00] INC-20260426-160920-A513 | GREEN | Suspicious tie activity in Unspecified Sector
+[2026-04-26T16:09:20.223581+00:00] INC-20260426-160920-EA13 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:09:20.802285+00:00] INC-20260426-160920-1D5F | YELLOW | Unknown person detected in Unspecified Sector
+[2026-04-26T16:09:21.632371+00:00] INC-20260426-160921-BBA3 | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:09:22.086929+00:00] INC-20260426-160922-CD7B | RED | Restricted zone breach in West Gate
+[2026-04-26T16:09:22.490550+00:00] INC-20260426-160922-D543 | RED | Restricted zone breach in West Gate
+[2026-04-26T16:09:23.060678+00:00] INC-20260426-160923-E57E | GREEN | Suspicious skateboard activity in Unspecified Sector
+[2026-04-26T16:09:23.061679+00:00] INC-20260426-160923-A396 | RED | Restricted zone breach in West Gate
+[2026-04-26T16:09:23.061679+00:00] INC-20260426-160923-0FEA | RED | Restricted zone breach in West Gate
+[2026-04-26T16:09:23.683792+00:00] INC-20260426-160923-F794 | RED | Restricted zone breach in West Gate
+[2026-04-26T16:09:23.684792+00:00] INC-20260426-160923-A2E3 | RED | Restricted zone breach in West Gate
+[2026-04-26T16:09:23.939851+00:00] INC-20260426-160923-6EA4 | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:09:24.267924+00:00] INC-20260426-160924-47F6 | RED | Restricted zone breach in West Gate
+[2026-04-26T16:09:24.267924+00:00] INC-20260426-160924-AA9E | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:09:25.471719+00:00] INC-20260426-160925-63AC | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:09:25.472720+00:00] INC-20260426-160925-6C08 | RED | Restricted zone breach in West Gate
+[2026-04-26T16:09:26.114286+00:00] INC-20260426-160926-D8F8 | GREEN | Suspicious tie activity in Unspecified Sector
+[2026-04-26T16:09:26.114286+00:00] INC-20260426-160926-A333 | RED | Restricted zone breach in West Gate
+[2026-04-26T16:09:26.693416+00:00] INC-20260426-160926-4402 | RED | Restricted zone breach in West Gate
+[2026-04-26T16:09:26.959477+00:00] INC-20260426-160926-D3F3 | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:09:27.306554+00:00] INC-20260426-160927-1809 | RED | Restricted zone breach in West Gate
+[2026-04-26T16:09:28.096733+00:00] INC-20260426-160928-C176 | RED | Restricted zone breach in West Gate
+[2026-04-26T16:09:29.608074+00:00] INC-20260426-160929-BABD | RED | Restricted zone breach in West Gate
+[2026-04-26T16:09:29.945151+00:00] INC-20260426-160929-CB33 | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:09:31.504501+00:00] INC-20260426-160931-0FE0 | RED | Restricted zone breach in West Gate
+[2026-04-26T16:09:32.576743+00:00] INC-20260426-160932-C88F | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:09:34.230121+00:00] INC-20260426-160934-4F86 | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:09:34.647210+00:00] INC-20260426-160934-14E1 | RED | Restricted zone breach in West Gate
+[2026-04-26T16:09:34.648210+00:00] INC-20260426-160934-82E5 | GREEN | Suspicious skateboard activity in Unspecified Sector
+[2026-04-26T16:09:35.262351+00:00] INC-20260426-160935-C607 | RED | Restricted zone breach in West Gate
+[2026-04-26T16:09:35.262351+00:00] INC-20260426-160935-E20B | RED | Restricted zone breach in West Gate
+[2026-04-26T16:09:36.121544+00:00] INC-20260426-160936-81CE | RED | Restricted zone breach in West Gate
+[2026-04-26T16:09:36.614654+00:00] INC-20260426-160936-36AA | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:09:37.256800+00:00] INC-20260426-160937-A703 | RED | Restricted zone breach in West Gate
+[2026-04-26T16:09:37.257799+00:00] INC-20260426-160937-DEB1 | RED | Restricted zone breach in West Gate
+[2026-04-26T16:09:37.257799+00:00] INC-20260426-160937-7466 | GREEN | Suspicious skateboard activity in Unspecified Sector
+[2026-04-26T16:09:37.819926+00:00] INC-20260426-160937-4DF3 | RED | Restricted zone breach in West Gate
+[2026-04-26T16:09:38.340580+00:00] INC-20260426-160938-3B6C | RED | Restricted zone breach in West Gate
+[2026-04-26T16:09:38.341581+00:00] INC-20260426-160938-E451 | GREEN | Suspicious tie activity in Unspecified Sector
+[2026-04-26T16:09:39.008651+00:00] INC-20260426-160939-2E0A | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:09:39.009652+00:00] INC-20260426-160939-0063 | RED | Restricted zone breach in West Gate
+[2026-04-26T16:09:39.269711+00:00] INC-20260426-160939-F29B | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:09:39.607787+00:00] INC-20260426-160939-AB72 | RED | Restricted zone breach in West Gate
+[2026-04-26T16:09:40.381718+00:00] INC-20260426-160940-BA8D | RED | Restricted zone breach in West Gate
+[2026-04-26T16:09:40.941806+00:00] INC-20260426-160940-5C25 | RED | Restricted zone breach in West Gate
+[2026-04-26T16:09:41.826006+00:00] INC-20260426-160941-15E5 | GREEN | Suspicious tie activity in Unspecified Sector
+[2026-04-26T16:09:41.826006+00:00] INC-20260426-160941-5CF4 | RED | Restricted zone breach in West Gate
+[2026-04-26T16:09:42.143079+00:00] INC-20260426-160942-0024 | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:09:42.767219+00:00] INC-20260426-160942-3522 | RED | Restricted zone breach in West Gate
+[2026-04-26T16:09:43.293337+00:00] INC-20260426-160943-528D | GREEN | Suspicious tie activity in Unspecified Sector
+[2026-04-26T16:09:43.294337+00:00] INC-20260426-160943-A824 | RED | Restricted zone breach in West Gate
+[2026-04-26T16:09:44.642642+00:00] INC-20260426-160944-3585 | RED | Restricted zone breach in West Gate
+[2026-04-26T16:09:44.904701+00:00] INC-20260426-160944-770C | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:09:48.316473+00:00] INC-20260426-160948-53FC | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:09:48.884601+00:00] INC-20260426-160948-BCC0 | RED | Restricted zone breach in West Gate
+[2026-04-26T16:09:49.384712+00:00] INC-20260426-160949-74BB | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:09:50.429947+00:00] INC-20260426-160950-C623 | RED | Restricted zone breach in West Gate
+[2026-04-26T16:09:50.914057+00:00] INC-20260426-160950-2862 | GREEN | Suspicious tie activity in Unspecified Sector
+[2026-04-26T16:09:50.915057+00:00] INC-20260426-160950-A46F | RED | Restricted zone breach in West Gate
+[2026-04-26T16:09:51.522195+00:00] INC-20260426-160951-8BE2 | RED | Restricted zone breach in West Gate
+[2026-04-26T16:09:51.975296+00:00] INC-20260426-160951-A9BC | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:09:52.396391+00:00] INC-20260426-160952-B5A2 | RED | Restricted zone breach in West Gate
+[2026-04-26T16:09:52.397392+00:00] INC-20260426-160952-904F | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:09:52.953516+00:00] INC-20260426-160952-BA53 | GREEN | Suspicious tie activity in Unspecified Sector
+[2026-04-26T16:09:53.404618+00:00] INC-20260426-160953-5C85 | RED | Restricted zone breach in West Gate
+[2026-04-26T16:09:54.014997+00:00] INC-20260426-160954-7DD1 | GREEN | Suspicious tie activity in Unspecified Sector
+[2026-04-26T16:09:54.524112+00:00] INC-20260426-160954-8B39 | GREEN | Suspicious tie activity in Unspecified Sector
+[2026-04-26T16:09:54.525112+00:00] INC-20260426-160954-4003 | RED | Restricted zone breach in West Gate
+[2026-04-26T16:09:54.526112+00:00] INC-20260426-160954-5C9E | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:09:54.787174+00:00] INC-20260426-160954-F2C6 | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:09:55.115245+00:00] INC-20260426-160955-AF94 | GREEN | Suspicious tie activity in Unspecified Sector
+[2026-04-26T16:09:55.116246+00:00] INC-20260426-160955-1371 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:09:55.116246+00:00] INC-20260426-160955-7E5A | RED | Restricted zone breach in West Gate
+[2026-04-26T16:09:55.565347+00:00] INC-20260426-160955-BD4C | RED | Restricted zone breach in West Gate
+[2026-04-26T16:09:56.099467+00:00] INC-20260426-160956-4727 | GREEN | Suspicious tie activity in Unspecified Sector
+[2026-04-26T16:09:56.099467+00:00] INC-20260426-160956-CF77 | RED | Restricted zone breach in West Gate
+[2026-04-26T16:09:56.613860+00:00] INC-20260426-160956-D8B3 | GREEN | Suspicious tie activity in Unspecified Sector
+[2026-04-26T16:09:56.613860+00:00] INC-20260426-160956-FC43 | RED | Restricted zone breach in West Gate
+[2026-04-26T16:09:56.614861+00:00] INC-20260426-160956-1A50 | RED | Restricted zone breach in West Gate
+[2026-04-26T16:09:56.999949+00:00] INC-20260426-160956-E455 | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:09:57.342025+00:00] INC-20260426-160957-8E0B | GREEN | Suspicious tie activity in Unspecified Sector
+[2026-04-26T16:09:57.343025+00:00] INC-20260426-160957-D784 | RED | Restricted zone breach in West Gate
+[2026-04-26T16:09:57.344025+00:00] INC-20260426-160957-940B | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:09:57.881147+00:00] INC-20260426-160957-26A8 | GREEN | Suspicious tie activity in Unspecified Sector
+[2026-04-26T16:09:57.882146+00:00] INC-20260426-160957-1546 | RED | Restricted zone breach in West Gate
+[2026-04-26T16:09:58.567301+00:00] INC-20260426-160958-DFB4 | GREEN | Suspicious tie activity in Unspecified Sector
+[2026-04-26T16:09:58.567301+00:00] INC-20260426-160958-58A1 | RED | Restricted zone breach in West Gate
+[2026-04-26T16:09:59.446499+00:00] INC-20260426-160959-D4CC | RED | Restricted zone breach in West Gate
+[2026-04-26T16:09:59.745567+00:00] INC-20260426-160959-10D3 | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:10:02.612216+00:00] INC-20260426-161002-5FBB | RED | Restricted zone breach in West Gate
+[2026-04-26T16:10:02.612216+00:00] INC-20260426-161002-5F6F | GREEN | Suspicious bed activity in Unspecified Sector
+[2026-04-26T16:10:02.613215+00:00] INC-20260426-161002-463B | GREEN | Suspicious tie activity in Unspecified Sector
+[2026-04-26T16:10:03.031310+00:00] INC-20260426-161003-7BE8 | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:10:03.033312+00:00] INC-20260426-161003-5617 | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:10:04.769703+00:00] INC-20260426-161004-F1FF | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:10:04.771703+00:00] INC-20260426-161004-9814 | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:10:05.139784+00:00] INC-20260426-161005-B795 | RED | Restricted zone breach in West Gate
+[2026-04-26T16:10:06.307047+00:00] INC-20260426-161006-216E | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:10:06.808088+00:00] INC-20260426-161006-AEC9 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:10:07.278196+00:00] INC-20260426-161007-EC7C | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:10:07.279195+00:00] INC-20260426-161007-BC89 | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:10:07.606156+00:00] INC-20260426-161007-B28E | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:10:08.172460+00:00] INC-20260426-161008-DCE8 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:10:08.725606+00:00] INC-20260426-161008-3BBE | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:10:09.242175+00:00] INC-20260426-161009-C963 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:10:09.777949+00:00] INC-20260426-161009-9148 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:10:10.011002+00:00] INC-20260426-161010-AD05 | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:10:10.013003+00:00] INC-20260426-161010-0546 | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:10:10.773173+00:00] INC-20260426-161010-8E34 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:10:11.407316+00:00] INC-20260426-161011-6AD9 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:10:11.890425+00:00] INC-20260426-161011-B501 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:10:11.891425+00:00] INC-20260426-161011-01B6 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:10:12.426547+00:00] INC-20260426-161012-38BC | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:10:12.427547+00:00] INC-20260426-161012-0E1A | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:10:12.717614+00:00] INC-20260426-161012-53B6 | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:10:12.718613+00:00] INC-20260426-161012-E947 | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:10:14.789079+00:00] INC-20260426-161014-FE59 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:10:15.086148+00:00] INC-20260426-161015-A1EB | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:10:15.088148+00:00] INC-20260426-161015-AA40 | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:10:17.876776+00:00] INC-20260426-161017-FD90 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:10:18.247861+00:00] INC-20260426-161018-E628 | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:10:18.249863+00:00] INC-20260426-161018-260A | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:10:19.305098+00:00] INC-20260426-161019-21C4 | GREEN | Suspicious suitcase activity in Unspecified Sector
+[2026-04-26T16:10:19.957244+00:00] INC-20260426-161019-5041 | GREEN | Suspicious tie activity in Unspecified Sector
+[2026-04-26T16:10:20.288321+00:00] INC-20260426-161020-FF1F | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:10:20.290321+00:00] INC-20260426-161020-0873 | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:10:20.704414+00:00] INC-20260426-161020-A397 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:10:20.706415+00:00] INC-20260426-161020-2B6F | GREEN | Suspicious banana activity in Unspecified Sector
+[2026-04-26T16:10:21.237534+00:00] INC-20260426-161021-3B90 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:10:22.354601+00:00] INC-20260426-161022-5FC8 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:10:22.850733+00:00] INC-20260426-161022-58AF | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:10:22.851734+00:00] INC-20260426-161022-F481 | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:10:23.176129+00:00] INC-20260426-161023-66BA | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:10:23.609227+00:00] INC-20260426-161023-BC7F | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:10:24.163352+00:00] INC-20260426-161024-E062 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:10:25.154474+00:00] INC-20260426-161025-D9B7 | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:10:25.155475+00:00] INC-20260426-161025-B969 | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:10:25.951601+00:00] INC-20260426-161025-3E30 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:10:26.719777+00:00] INC-20260426-161026-4E96 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:10:26.720777+00:00] INC-20260426-161026-AD37 | GREEN | Suspicious bed activity in Unspecified Sector
+[2026-04-26T16:10:26.721776+00:00] INC-20260426-161026-1F26 | GREEN | Suspicious couch activity in Unspecified Sector
+[2026-04-26T16:10:27.222759+00:00] INC-20260426-161027-B143 | YELLOW | Unknown person detected in Unspecified Sector
+[2026-04-26T16:10:27.223760+00:00] INC-20260426-161027-B7F6 | GREEN | Suspicious book activity in Unspecified Sector
+[2026-04-26T16:10:27.223760+00:00] INC-20260426-161027-DFBB | GREEN | Suspicious bed activity in Unspecified Sector
+[2026-04-26T16:10:27.791548+00:00] INC-20260426-161027-6906 | YELLOW | Unknown person detected in Unspecified Sector
+[2026-04-26T16:10:27.792528+00:00] INC-20260426-161027-8F90 | GREEN | Suspicious bed activity in Unspecified Sector
+[2026-04-26T16:10:28.076593+00:00] INC-20260426-161028-41A6 | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:10:28.440675+00:00] INC-20260426-161028-B05B | YELLOW | Unknown person detected in Unspecified Sector
+[2026-04-26T16:10:29.546924+00:00] INC-20260426-161029-7060 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:10:29.549926+00:00] INC-20260426-161029-269B | GREEN | Suspicious couch activity in Unspecified Sector
+[2026-04-26T16:10:31.728418+00:00] INC-20260426-161031-333B | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:10:31.729419+00:00] INC-20260426-161031-6E87 | GREEN | Suspicious couch activity in Unspecified Sector
+[2026-04-26T16:10:32.575607+00:00] INC-20260426-161032-23CE | YELLOW | Unknown person detected in Central West Sector
+[2026-04-26T16:10:34.372012+00:00] INC-20260426-161034-B501 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:10:34.373013+00:00] INC-20260426-161034-B919 | GREEN | Suspicious bed activity in Unspecified Sector
+[2026-04-26T16:10:34.373013+00:00] INC-20260426-161034-0404 | GREEN | Suspicious bed activity in Unspecified Sector
+[2026-04-26T16:10:34.662080+00:00] INC-20260426-161034-5F85 | YELLOW | Unknown person detected in Central West Sector
+[2026-04-26T16:10:35.190198+00:00] INC-20260426-161035-B675 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:10:35.190198+00:00] INC-20260426-161035-6A4B | GREEN | Suspicious couch activity in Unspecified Sector
+[2026-04-26T16:10:35.191198+00:00] INC-20260426-161035-9171 | GREEN | Suspicious bed activity in Unspecified Sector
+[2026-04-26T16:10:35.568284+00:00] INC-20260426-161035-D500 | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:10:35.569283+00:00] INC-20260426-161035-071B | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:10:35.952369+00:00] INC-20260426-161035-1DAF | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:10:35.953370+00:00] INC-20260426-161035-4F69 | GREEN | Suspicious couch activity in Unspecified Sector
+[2026-04-26T16:10:35.954370+00:00] INC-20260426-161035-7A66 | GREEN | Suspicious bed activity in Unspecified Sector
+[2026-04-26T16:10:36.443480+00:00] INC-20260426-161036-89E9 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:10:36.444481+00:00] INC-20260426-161036-EBB2 | GREEN | Suspicious bed activity in Unspecified Sector
+[2026-04-26T16:10:36.445481+00:00] INC-20260426-161036-6A94 | GREEN | Suspicious couch activity in Unspecified Sector
+[2026-04-26T16:10:36.967598+00:00] INC-20260426-161036-F141 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:10:36.968598+00:00] INC-20260426-161036-A88B | GREEN | Suspicious couch activity in Unspecified Sector
+[2026-04-26T16:10:36.968598+00:00] INC-20260426-161036-A9E7 | GREEN | Suspicious bed activity in Unspecified Sector
+[2026-04-26T16:10:37.524724+00:00] INC-20260426-161037-1B0A | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:10:37.525724+00:00] INC-20260426-161037-AAAD | GREEN | Suspicious bed activity in Unspecified Sector
+[2026-04-26T16:10:37.526724+00:00] INC-20260426-161037-C9C6 | GREEN | Suspicious couch activity in Unspecified Sector
+[2026-04-26T16:10:38.150865+00:00] INC-20260426-161038-FA3B | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:10:38.150865+00:00] INC-20260426-161038-F287 | GREEN | Suspicious bed activity in Unspecified Sector
+[2026-04-26T16:10:38.151866+00:00] INC-20260426-161038-63FF | GREEN | Suspicious couch activity in Unspecified Sector
+[2026-04-26T16:10:38.418926+00:00] INC-20260426-161038-59ED | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:10:38.759002+00:00] INC-20260426-161038-C7FB | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:10:38.759002+00:00] INC-20260426-161038-9437 | GREEN | Suspicious couch activity in Unspecified Sector
+[2026-04-26T16:10:38.760002+00:00] INC-20260426-161038-5569 | GREEN | Suspicious bed activity in Unspecified Sector
+[2026-04-26T16:10:39.328130+00:00] INC-20260426-161039-1AE1 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:10:39.328130+00:00] INC-20260426-161039-64D8 | GREEN | Suspicious bed activity in Unspecified Sector
+[2026-04-26T16:10:39.329132+00:00] INC-20260426-161039-91F4 | GREEN | Suspicious couch activity in Unspecified Sector
+[2026-04-26T16:10:39.827376+00:00] INC-20260426-161039-AF10 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:10:39.828376+00:00] INC-20260426-161039-C9C9 | GREEN | Suspicious bed activity in Unspecified Sector
+[2026-04-26T16:10:39.829377+00:00] INC-20260426-161039-06A8 | GREEN | Suspicious couch activity in Unspecified Sector
+[2026-04-26T16:10:39.829377+00:00] INC-20260426-161039-1E97 | RED | Restricted zone breach in West Gate
+[2026-04-26T16:10:40.433502+00:00] INC-20260426-161040-9A8F | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:10:40.433502+00:00] INC-20260426-161040-2F52 | GREEN | Suspicious bed activity in Unspecified Sector
+[2026-04-26T16:10:40.702563+00:00] INC-20260426-161040-3369 | YELLOW | Unknown person detected in Central West Sector
+[2026-04-26T16:10:41.022635+00:00] INC-20260426-161041-8F72 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:10:41.023636+00:00] INC-20260426-161041-25EA | GREEN | Suspicious couch activity in Unspecified Sector
+[2026-04-26T16:10:41.024635+00:00] INC-20260426-161041-D598 | GREEN | Suspicious bed activity in Unspecified Sector
+[2026-04-26T16:10:41.559757+00:00] INC-20260426-161041-CF28 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:10:41.560757+00:00] INC-20260426-161041-FDA9 | GREEN | Suspicious couch activity in Unspecified Sector
+[2026-04-26T16:10:41.561757+00:00] INC-20260426-161041-52E6 | GREEN | Suspicious bed activity in Unspecified Sector
+[2026-04-26T16:10:42.091876+00:00] INC-20260426-161042-4CD1 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:10:42.092876+00:00] INC-20260426-161042-5B3A | GREEN | Suspicious couch activity in Unspecified Sector
+[2026-04-26T16:10:42.093878+00:00] INC-20260426-161042-4BCE | GREEN | Suspicious bed activity in Unspecified Sector
+[2026-04-26T16:10:42.621995+00:00] INC-20260426-161042-956F | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:10:42.622995+00:00] INC-20260426-161042-C848 | GREEN | Suspicious couch activity in Unspecified Sector
+[2026-04-26T16:10:42.623995+00:00] INC-20260426-161042-73A0 | GREEN | Suspicious bed activity in Unspecified Sector
+[2026-04-26T16:10:43.228132+00:00] INC-20260426-161043-1E75 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:10:43.229132+00:00] INC-20260426-161043-0513 | GREEN | Suspicious couch activity in Unspecified Sector
+[2026-04-26T16:10:43.230132+00:00] INC-20260426-161043-98A9 | GREEN | Suspicious bed activity in Unspecified Sector
+[2026-04-26T16:10:43.230132+00:00] INC-20260426-161043-4179 | RED | Restricted zone breach in West Gate
+[2026-04-26T16:10:43.537202+00:00] INC-20260426-161043-600C | YELLOW | Unknown person detected in Central West Sector
+[2026-04-26T16:10:44.607443+00:00] INC-20260426-161044-5165 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:10:44.608443+00:00] INC-20260426-161044-5E92 | GREEN | Suspicious bed activity in Unspecified Sector
+[2026-04-26T16:10:45.115558+00:00] INC-20260426-161045-3AFA | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:10:45.116558+00:00] INC-20260426-161045-152C | GREEN | Suspicious couch activity in Unspecified Sector
+[2026-04-26T16:10:45.116558+00:00] INC-20260426-161045-A552 | GREEN | Suspicious bed activity in Unspecified Sector
+[2026-04-26T16:10:45.811715+00:00] INC-20260426-161045-D2CC | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:10:46.832945+00:00] INC-20260426-161046-65DC | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:10:48.815395+00:00] INC-20260426-161048-2BEA | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:10:49.191478+00:00] INC-20260426-161049-F5A1 | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:10:49.638579+00:00] INC-20260426-161049-AB17 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:10:50.200706+00:00] INC-20260426-161050-C74B | RED | Restricted zone breach in West Gate
+[2026-04-26T16:10:50.765834+00:00] INC-20260426-161050-4CCF | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:10:51.039895+00:00] INC-20260426-161051-76AA | YELLOW | Unknown person detected in South Center Sector
+[2026-04-26T16:10:51.469991+00:00] INC-20260426-161051-367F | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:10:52.018115+00:00] INC-20260426-161052-9D40 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:10:52.517213+00:00] INC-20260426-161052-6378 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:10:53.044423+00:00] INC-20260426-161053-2013 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:10:53.464162+00:00] INC-20260426-161053-883A | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:10:53.790659+00:00] INC-20260426-161053-6ED6 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:10:54.842340+00:00] INC-20260426-161054-BF43 | RED | Restricted zone breach in West Gate
+[2026-04-26T16:10:55.555495+00:00] INC-20260426-161055-B5C0 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:10:56.346149+00:00] INC-20260426-161056-D18D | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:10:56.763241+00:00] INC-20260426-161056-0CB2 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:10:57.225345+00:00] INC-20260426-161057-54DA | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:10:57.850486+00:00] INC-20260426-161057-E995 | RED | Restricted zone breach in West Gate
+[2026-04-26T16:10:58.639666+00:00] INC-20260426-161058-F413 | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:11:01.287263+00:00] INC-20260426-161101-9ACF | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:11:04.413968+00:00] INC-20260426-161104-BAE3 | YELLOW | Vehicle requires verification in Central West Sector
+[2026-04-26T16:11:05.860293+00:00] INC-20260426-161105-0BDA | GREEN | Suspicious keyboard activity in Unspecified Sector
+[2026-04-26T16:11:08.045880+00:00] INC-20260426-161108-CB3A | YELLOW | Unknown person detected in Central West Sector
+[2026-04-26T16:11:08.365708+00:00] INC-20260426-161108-D2CB | GREEN | Suspicious toothbrush activity in Unspecified Sector
+[2026-04-26T16:11:12.134612+00:00] INC-20260426-161112-A3D8 | YELLOW | Unknown person detected in Unspecified Sector
+[2026-04-26T16:11:49.275843+00:00] INC-20260426-161149-5199 | YELLOW | Unknown person detected in North Center Sector
+[2026-04-26T16:11:49.803961+00:00] INC-20260426-161149-0964 | YELLOW | Unknown person detected in Central West Sector
+[2026-04-26T16:11:50.294072+00:00] INC-20260426-161150-D50D | YELLOW | Unknown person detected in South West Sector
+[2026-04-26T16:11:50.873203+00:00] INC-20260426-161150-C243 | YELLOW | Vehicle requires verification in Central East Sector
+[2026-04-26T16:12:02.492043+00:00] INC-20260426-161202-2B89 | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:12:02.794111+00:00] INC-20260426-161202-BBB4 | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:12:03.085175+00:00] INC-20260426-161203-D3C7 | YELLOW | Unknown person detected in South West Sector
+[2026-04-26T16:12:04.078398+00:00] INC-20260426-161204-D9FC | GREEN | Suspicious cat activity in Unspecified Sector
+[2026-04-26T16:12:04.504498+00:00] INC-20260426-161204-079A | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:12:05.381693+00:00] INC-20260426-161205-B098 | YELLOW | Unknown person detected in Unspecified Sector
+[2026-04-26T16:12:08.053194+00:00] INC-20260426-161208-C118 | GREEN | Suspicious bench activity in Unspecified Sector
+[2026-04-26T16:12:09.044418+00:00] INC-20260426-161209-76F3 | YELLOW | Unknown person detected in South Center Sector
+[2026-04-26T16:12:09.382494+00:00] INC-20260426-161209-92A2 | RED | Restricted zone breach in West Gate
+[2026-04-26T16:12:09.908613+00:00] INC-20260426-161209-1BDE | GREEN | Suspicious bench activity in Unspecified Sector
+[2026-04-26T16:12:10.423028+00:00] INC-20260426-161210-32BA | RED | Restricted zone breach in West Gate
+[2026-04-26T16:12:10.914139+00:00] INC-20260426-161210-8D08 | GREEN | Suspicious banana activity in Unspecified Sector
+[2026-04-26T16:12:14.380921+00:00] INC-20260426-161214-94E2 | GREEN | Suspicious tie activity in Unspecified Sector
+[2026-04-26T16:12:15.227112+00:00] INC-20260426-161215-516A | GREEN | Suspicious suitcase activity in Unspecified Sector
+[2026-04-26T16:12:15.832249+00:00] INC-20260426-161215-46D3 | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T16:12:17.071529+00:00] INC-20260426-161217-6992 | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T16:12:21.889997+00:00] INC-20260426-161221-BCE3 | GREEN | Suspicious toothbrush activity in Unspecified Sector
+[2026-04-26T16:12:21.889997+00:00] INC-20260426-161221-3D6C | GREEN | Suspicious toothbrush activity in Unspecified Sector
+[2026-04-26T16:12:22.469699+00:00] INC-20260426-161222-A3AA | GREEN | Suspicious cell phone activity in Unspecified Sector
+[2026-04-26T16:12:22.470699+00:00] INC-20260426-161222-BCB1 | GREEN | Suspicious boat activity in Unspecified Sector
+[2026-04-26T16:12:25.711620+00:00] INC-20260426-161225-CD76 | GREEN | Suspicious toothbrush activity in Unspecified Sector
+[2026-04-26T16:12:26.203858+00:00] INC-20260426-161226-3E60 | RED | Restricted zone breach in West Gate
+[2026-04-26T16:12:26.872009+00:00] INC-20260426-161226-1E93 | RED | Restricted zone breach in West Gate
+[2026-04-26T16:12:27.261097+00:00] INC-20260426-161227-8E7D | YELLOW | Unknown person detected in South West Sector
+[2026-04-26T16:12:27.868234+00:00] INC-20260426-161227-7519 | GREEN | Suspicious cell phone activity in Unspecified Sector
+[2026-04-26T16:12:27.868234+00:00] INC-20260426-161227-46E7 | RED | Restricted zone breach in West Gate
+[2026-04-26T16:12:28.427359+00:00] INC-20260426-161228-EEC8 | GREEN | Suspicious cell phone activity in Unspecified Sector
+[2026-04-26T16:12:30.330789+00:00] INC-20260426-161230-8EAC | RED | Restricted zone breach in West Gate
+[2026-04-26T16:12:31.688095+00:00] INC-20260426-161231-E945 | GREEN | Suspicious clock activity in Unspecified Sector
+[2026-04-26T16:12:31.689095+00:00] INC-20260426-161231-3833 | RED | Restricted zone breach in West Gate
+[2026-04-26T16:12:33.792570+00:00] INC-20260426-161233-7128 | GREEN | Suspicious clock activity in Unspecified Sector
+[2026-04-26T16:12:34.428713+00:00] INC-20260426-161234-ACAD | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T16:12:34.945830+00:00] INC-20260426-161234-67F3 | GREEN | Suspicious book activity in Unspecified Sector
+[2026-04-26T16:12:34.946830+00:00] INC-20260426-161234-E6F3 | GREEN | Suspicious book activity in Unspecified Sector
+[2026-04-26T16:12:35.486968+00:00] INC-20260426-161235-C814 | GREEN | Suspicious book activity in Unspecified Sector
+[2026-04-26T16:12:37.393287+00:00] INC-20260426-161237-6337 | GREEN | Suspicious suitcase activity in Unspecified Sector
+[2026-04-26T16:12:38.523474+00:00] INC-20260426-161238-74AA | GREEN | Suspicious stop sign activity in Unspecified Sector
+[2026-04-26T16:12:39.016255+00:00] INC-20260426-161239-A903 | GREEN | Suspicious stop sign activity in Unspecified Sector
+[2026-04-26T16:12:39.715990+00:00] INC-20260426-161239-E384 | GREEN | Suspicious stop sign activity in Unspecified Sector
+[2026-04-26T16:12:40.190097+00:00] INC-20260426-161240-A388 | GREEN | Suspicious stop sign activity in Unspecified Sector
+[2026-04-26T16:12:40.729219+00:00] INC-20260426-161240-FBC4 | GREEN | Suspicious umbrella activity in Unspecified Sector
+[2026-04-26T16:12:41.264833+00:00] INC-20260426-161241-F812 | GREEN | Suspicious umbrella activity in Unspecified Sector
+[2026-04-26T16:12:44.120477+00:00] INC-20260426-161244-5B85 | GREEN | Suspicious book activity in Unspecified Sector
+[2026-04-26T16:12:44.836639+00:00] INC-20260426-161244-9DA1 | GREEN | Suspicious book activity in Unspecified Sector
+[2026-04-26T16:12:44.837639+00:00] INC-20260426-161244-5623 | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T16:12:45.453778+00:00] INC-20260426-161245-1E7C | GREEN | Suspicious book activity in Unspecified Sector
+[2026-04-26T16:12:46.560029+00:00] INC-20260426-161246-DD7C | GREEN | Suspicious book activity in Unspecified Sector
+[2026-04-26T16:12:46.560029+00:00] INC-20260426-161246-855C | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T16:12:49.829765+00:00] INC-20260426-161249-C039 | GREEN | Suspicious book activity in Unspecified Sector
+[2026-04-26T16:12:49.829765+00:00] INC-20260426-161249-95B1 | GREEN | Suspicious laptop activity in Unspecified Sector
+[2026-04-26T16:12:50.347882+00:00] INC-20260426-161250-7AD9 | GREEN | Suspicious book activity in Unspecified Sector
+[2026-04-26T16:12:50.348882+00:00] INC-20260426-161250-A403 | GREEN | Suspicious laptop activity in Unspecified Sector
+[2026-04-26T16:12:50.918011+00:00] INC-20260426-161250-2FD6 | GREEN | Suspicious book activity in Unspecified Sector
+[2026-04-26T16:12:51.457132+00:00] INC-20260426-161251-6FBC | GREEN | Suspicious book activity in Unspecified Sector
+[2026-04-26T16:12:52.116696+00:00] INC-20260426-161252-248A | GREEN | Suspicious book activity in Unspecified Sector
+[2026-04-26T16:12:53.098746+00:00] INC-20260426-161253-62F9 | GREEN | Suspicious dog activity in Unspecified Sector
+[2026-04-26T16:12:53.472830+00:00] INC-20260426-161253-ABD9 | YELLOW | Unknown person detected in North Center Sector
+[2026-04-26T16:12:54.242003+00:00] INC-20260426-161254-EB9E | GREEN | Suspicious bowl activity in Unspecified Sector
+[2026-04-26T16:12:55.813346+00:00] INC-20260426-161255-81A0 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:12:56.068406+00:00] INC-20260426-161256-65A8 | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:12:57.124642+00:00] INC-20260426-161257-BB8F | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:12:57.782791+00:00] INC-20260426-161257-251B | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:12:58.286905+00:00] INC-20260426-161258-01CF | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:12:58.593976+00:00] INC-20260426-161258-3F43 | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:13:00.065306+00:00] INC-20260426-161300-E871 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:13:01.402608+00:00] INC-20260426-161301-418A | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:13:01.717679+00:00] INC-20260426-161301-86FA | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:13:04.764366+00:00] INC-20260426-161304-16C0 | GREEN | Suspicious bird activity in Unspecified Sector
+[2026-04-26T16:13:05.416513+00:00] INC-20260426-161305-E00E | GREEN | Suspicious chair activity in Unspecified Sector
+[2026-04-26T16:13:05.692576+00:00] INC-20260426-161305-CE5F | YELLOW | Vehicle requires verification in North Center Sector
+[2026-04-26T16:13:06.695964+00:00] INC-20260426-161306-798A | RED | Restricted zone breach in West Gate
+[2026-04-26T16:13:06.696964+00:00] INC-20260426-161306-7A65 | RED | Restricted zone breach in West Gate
+[2026-04-26T16:13:07.228084+00:00] INC-20260426-161307-AD92 | GREEN | Suspicious donut activity in Unspecified Sector
+[2026-04-26T16:13:07.789948+00:00] INC-20260426-161307-72E7 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:13:08.178977+00:00] INC-20260426-161308-DF87 | YELLOW | Unknown person detected in Central East Sector
+[2026-04-26T16:13:08.511052+00:00] INC-20260426-161308-2047 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:13:08.512055+00:00] INC-20260426-161308-9133 | RED | Restricted zone breach in West Gate
+[2026-04-26T16:13:08.951701+00:00] INC-20260426-161308-CDC1 | RED | Restricted zone breach in West Gate
+[2026-04-26T16:13:08.952702+00:00] INC-20260426-161308-07B3 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:13:09.619163+00:00] INC-20260426-161309-F70A | RED | Restricted zone breach in West Gate
+[2026-04-26T16:13:11.293212+00:00] INC-20260426-161311-5A4A | YELLOW | Unknown person detected in Unspecified Sector
+[2026-04-26T16:13:12.266431+00:00] INC-20260426-161312-8DE8 | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:13:13.024602+00:00] INC-20260426-161313-F80A | RED | Restricted zone breach in West Gate
+[2026-04-26T16:13:14.250879+00:00] INC-20260426-161314-DAFA | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:13:14.757995+00:00] INC-20260426-161314-D8CB | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:13:15.761219+00:00] INC-20260426-161315-DF11 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:13:17.041508+00:00] INC-20260426-161317-9D74 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:13:17.429597+00:00] INC-20260426-161317-0FE1 | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:13:18.963942+00:00] INC-20260426-161318-80A2 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:13:19.539072+00:00] INC-20260426-161319-74E2 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:13:19.963170+00:00] INC-20260426-161319-CE74 | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:13:20.340253+00:00] INC-20260426-161320-F002 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:13:20.829363+00:00] INC-20260426-161320-4DCD | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:13:21.943614+00:00] INC-20260426-161321-EF59 | GREEN | Suspicious toilet activity in Unspecified Sector
+[2026-04-26T16:13:23.070992+00:00] INC-20260426-161323-9726 | YELLOW | Unknown person detected in Unspecified Sector
+[2026-04-26T16:13:24.101784+00:00] INC-20260426-161324-BC91 | GREEN | Suspicious laptop activity in Unspecified Sector
+[2026-04-26T16:13:27.381228+00:00] INC-20260426-161327-09D1 | GREEN | Suspicious keyboard activity in Unspecified Sector
+[2026-04-26T16:13:28.604529+00:00] INC-20260426-161328-9364 | RED | Restricted zone breach in West Gate
+[2026-04-26T16:13:29.327692+00:00] INC-20260426-161329-D689 | RED | Restricted zone breach in West Gate
+[2026-04-26T16:13:30.008846+00:00] INC-20260426-161330-2623 | GREEN | Suspicious keyboard activity in Unspecified Sector
+[2026-04-26T16:13:31.819255+00:00] INC-20260426-161331-0B53 | YELLOW | Unknown person detected in South West Sector
+[2026-04-26T16:13:33.597656+00:00] INC-20260426-161333-48BB | GREEN | Suspicious keyboard activity in Unspecified Sector
+[2026-04-26T16:13:33.597656+00:00] INC-20260426-161333-DBE3 | RED | Restricted zone breach in West Gate
+[2026-04-26T16:13:33.968742+00:00] INC-20260426-161333-632D | YELLOW | Unknown person detected in South West Sector
+[2026-04-26T16:13:34.707905+00:00] INC-20260426-161334-D986 | GREEN | Suspicious keyboard activity in Unspecified Sector
+[2026-04-26T16:13:35.243026+00:00] INC-20260426-161335-3BFF | RED | Restricted zone breach in West Gate
+[2026-04-26T16:13:36.427295+00:00] INC-20260426-161336-9A48 | RED | Restricted zone breach in West Gate
+[2026-04-26T16:13:37.502536+00:00] INC-20260426-161337-F95B | RED | Restricted zone breach in West Gate
+[2026-04-26T16:13:38.088240+00:00] INC-20260426-161338-6E11 | YELLOW | Unknown person detected in Unspecified Sector
+[2026-04-26T16:13:38.649625+00:00] INC-20260426-161338-1BED | GREEN | Suspicious keyboard activity in Unspecified Sector
+[2026-04-26T16:13:39.170822+00:00] INC-20260426-161339-1B3C | GREEN | Suspicious keyboard activity in Unspecified Sector
+[2026-04-26T16:13:39.171823+00:00] INC-20260426-161339-929E | YELLOW | Unknown person detected in Unspecified Sector
+[2026-04-26T16:13:39.732371+00:00] INC-20260426-161339-EB61 | GREEN | Suspicious keyboard activity in Unspecified Sector
+[2026-04-26T16:13:39.733372+00:00] INC-20260426-161339-B212 | YELLOW | Unknown person detected in Unspecified Sector
+[2026-04-26T16:13:39.998432+00:00] INC-20260426-161339-9130 | YELLOW | Unknown person detected in Central West Sector
+[2026-04-26T16:13:40.337508+00:00] INC-20260426-161340-DD4E | GREEN | Suspicious keyboard activity in Unspecified Sector
+[2026-04-26T16:13:40.338508+00:00] INC-20260426-161340-650D | YELLOW | Unknown person detected in Unspecified Sector
+[2026-04-26T16:13:40.339508+00:00] INC-20260426-161340-4B59 | YELLOW | Unknown person detected in Unspecified Sector
+[2026-04-26T16:13:40.908739+00:00] INC-20260426-161340-C069 | GREEN | Suspicious keyboard activity in Unspecified Sector
+[2026-04-26T16:13:40.909739+00:00] INC-20260426-161340-0A8E | YELLOW | Unknown person detected in Unspecified Sector
+[2026-04-26T16:13:40.909739+00:00] INC-20260426-161340-30D7 | YELLOW | Unknown person detected in Unspecified Sector
+[2026-04-26T16:13:41.422361+00:00] INC-20260426-161341-4856 | GREEN | Suspicious keyboard activity in Unspecified Sector
+[2026-04-26T16:13:41.423362+00:00] INC-20260426-161341-999C | YELLOW | Unknown person detected in Unspecified Sector
+[2026-04-26T16:13:41.985488+00:00] INC-20260426-161341-D6AD | GREEN | Suspicious keyboard activity in Unspecified Sector
+[2026-04-26T16:13:41.986488+00:00] INC-20260426-161341-EB2C | YELLOW | Unknown person detected in Unspecified Sector
+[2026-04-26T16:13:41.986488+00:00] INC-20260426-161341-53F9 | YELLOW | Unknown person detected in Unspecified Sector
+[2026-04-26T16:13:42.511607+00:00] INC-20260426-161342-97EF | YELLOW | Unknown person detected in Central West Sector
+[2026-04-26T16:13:42.927701+00:00] INC-20260426-161342-F3D0 | GREEN | Suspicious keyboard activity in Unspecified Sector
+[2026-04-26T16:13:42.928702+00:00] INC-20260426-161342-CF9B | YELLOW | Unknown person detected in Unspecified Sector
+[2026-04-26T16:13:43.557843+00:00] INC-20260426-161343-E596 | GREEN | Suspicious keyboard activity in Unspecified Sector
+[2026-04-26T16:13:43.558844+00:00] INC-20260426-161343-A190 | YELLOW | Unknown person detected in Unspecified Sector
+[2026-04-26T16:13:44.240999+00:00] INC-20260426-161344-C257 | GREEN | Suspicious keyboard activity in Unspecified Sector
+[2026-04-26T16:13:44.241999+00:00] INC-20260426-161344-5C5B | YELLOW | Unknown person detected in Unspecified Sector
+[2026-04-26T16:13:45.192212+00:00] INC-20260426-161345-BCE0 | GREEN | Suspicious keyboard activity in Unspecified Sector
+[2026-04-26T16:13:45.193212+00:00] INC-20260426-161345-5D43 | YELLOW | Unknown person detected in Unspecified Sector
+[2026-04-26T16:13:45.516285+00:00] INC-20260426-161345-83DD | YELLOW | Unknown person detected in Central West Sector
+[2026-04-26T16:13:48.239902+00:00] INC-20260426-161348-3317 | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T16:13:48.240902+00:00] INC-20260426-161348-1207 | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T16:13:49.200117+00:00] INC-20260426-161349-D068 | GREEN | Suspicious clock activity in Unspecified Sector
+[2026-04-26T16:13:49.200117+00:00] INC-20260426-161349-3E50 | GREEN | Suspicious laptop activity in Unspecified Sector
+[2026-04-26T16:13:50.330939+00:00] INC-20260426-161350-5761 | YELLOW | Unknown person detected in Unspecified Sector
+[2026-04-26T16:13:50.908069+00:00] INC-20260426-161350-16DA | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T16:13:50.909070+00:00] INC-20260426-161350-7EC2 | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T16:13:51.466195+00:00] INC-20260426-161351-F2F8 | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T16:13:52.016661+00:00] INC-20260426-161352-CD93 | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T16:13:52.520149+00:00] INC-20260426-161352-126C | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T16:13:53.059582+00:00] INC-20260426-161353-E275 | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T16:13:54.193795+00:00] INC-20260426-161354-A869 | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T16:13:54.754720+00:00] INC-20260426-161354-5223 | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T16:13:55.327849+00:00] INC-20260426-161355-D20E | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T16:13:57.942555+00:00] INC-20260426-161357-3895 | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T16:14:01.253301+00:00] INC-20260426-161401-BC95 | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T16:14:03.351777+00:00] INC-20260426-161403-A2BA | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T16:14:05.354227+00:00] INC-20260426-161405-26E7 | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T16:14:06.458477+00:00] INC-20260426-161406-9C91 | GREEN | Suspicious book activity in Unspecified Sector
+[2026-04-26T16:14:07.625168+00:00] INC-20260426-161407-E263 | GREEN | Suspicious tv activity in Unspecified Sector
+[2026-04-26T16:14:08.748375+00:00] INC-20260426-161408-383D | GREEN | Suspicious book activity in Unspecified Sector
+[2026-04-26T16:22:39.917536+00:00] INC-20260426-162239-678E | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:22:40.172595+00:00] INC-20260426-162240-823D | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:22:42.095028+00:00] INC-20260426-162242-474C | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:22:55.085999+00:00] INC-20260426-162255-1322 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:22:55.361061+00:00] INC-20260426-162255-638D | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:22:57.574610+00:00] INC-20260426-162257-5490 | YELLOW | Unknown person detected in North West Sector
+[2026-04-26T16:23:01.547504+00:00] INC-20260426-162301-2668 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:23:01.971599+00:00] INC-20260426-162301-B4A8 | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:23:02.823791+00:00] INC-20260426-162302-E4FC | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:23:05.096633+00:00] INC-20260426-162305-0622 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:23:05.375697+00:00] INC-20260426-162305-0ED7 | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:23:07.817901+00:00] INC-20260426-162307-D4AD | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:23:10.131877+00:00] INC-20260426-162310-F9A2 | YELLOW | Unknown person detected in Unspecified Sector
+[2026-04-26T16:23:10.480499+00:00] INC-20260426-162310-0108 | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:23:13.014110+00:00] INC-20260426-162313-EE88 | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:23:16.402874+00:00] INC-20260426-162316-1F46 | CRITICAL | Restricted zone breach in Command Apron
+[2026-04-26T16:23:16.835974+00:00] INC-20260426-162316-0D93 | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:23:18.257294+00:00] INC-20260426-162318-119C | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:23:23.571133+00:00] INC-20260426-162323-DCFF | YELLOW | Unknown person detected in Unspecified Sector
+[2026-04-26T16:23:23.827193+00:00] INC-20260426-162323-75E9 | YELLOW | Unknown person detected in South East Sector
+[2026-04-26T16:23:26.297144+00:00] INC-20260426-162326-5217 | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:23:28.573656+00:00] INC-20260426-162328-F851 | RED | Restricted zone breach in West Gate
+[2026-04-26T16:23:28.920734+00:00] INC-20260426-162328-572F | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:23:31.157241+00:00] INC-20260426-162331-3895 | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:23:33.616056+00:00] INC-20260426-162333-AFE0 | RED | Restricted zone breach in West Gate
+[2026-04-26T16:23:33.858113+00:00] INC-20260426-162333-DEAB | YELLOW | Unknown person detected in Central Center Sector
+[2026-04-26T16:23:37.704535+00:00] INC-20260426-162337-8BB8 | YELLOW | Unknown person detected in South Center Sector
+[2026-04-26T16:28:53.430966+00:00] INC-20260426-162853-A8DF | YELLOW | Unknown person detected in Central East Sector
+[2026-04-26T16:29:21.754748+00:00] INC-20260426-162921-0F3D | YELLOW | Unknown person detected in Central East Sector
+[2026-04-26T16:29:24.120061+00:00] INC-20260426-162924-9070 | YELLOW | Unknown person detected in Central East Sector
+[2026-04-26T16:29:26.939250+00:00] INC-20260426-162926-B3E0 | YELLOW | Unknown person detected in Central East Sector
+[2026-04-26T16:30:42.096867+00:00] INC-20260426-163042-2155 | YELLOW | Unknown person detected in Central West Sector
+[2026-04-26T16:30:48.183592+00:00] INC-20260426-163048-B3D2 | YELLOW | Unknown person detected in Central West Sector

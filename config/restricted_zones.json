@@ -1,0 +1,32 @@
+[
+  {
+    "name": "North Sector",
+    "type": "airspace",
+    "x1": 0.05,
+    "y1": 0.06,
+    "x2": 0.42,
+    "y2": 0.38,
+    "restricted_objects": ["drone"],
+    "priority": "RED"
+  },
+  {
+    "name": "West Gate",
+    "type": "ground",
+    "x1": 0.58,
+    "y1": 0.45,
+    "x2": 0.95,
+    "y2": 0.94,
+    "restricted_objects": ["human", "vehicle"],
+    "priority": "RED"
+  },
+  {
+    "name": "Command Apron",
+    "type": "critical",
+    "x1": 0.28,
+    "y1": 0.32,
+    "x2": 0.69,
+    "y2": 0.82,
+    "restricted_objects": ["human", "vehicle", "drone"],
+    "priority": "CRITICAL"
+  }
+]
